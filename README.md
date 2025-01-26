@@ -7,13 +7,13 @@ Angular sample project for angular http client tutorial.
   * Angular 16
   * TypeScript 5
   
-* ### Configuration
-  * https://sachithariyathilaka.medium.com/angular-http-client-52397545d2d6
+* ### Documentation
+  * [Read on Medium](https://sachithariyathilaka.medium.com/angular-http-client-52397545d2d6)
 
 * ### Release Note
 
-  * Release: 1.0.0
-  * Date: 2024/05/23
+  * Version: 1.0.0
+  * Release Date: 2024/05/23
   * Module: Angular Http Client Tutorial
   * Changes
     * Implement the angular http client related functionalities.
